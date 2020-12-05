@@ -42,7 +42,6 @@
 
   Variante:
   Piuttosto che avere in input il numero dei giorni del mese passa direttamente il mese e calcola tu da quanti giorni è formato.
-var cats = 44;
 
   http://www.imparareaprogrammare.it
 */
